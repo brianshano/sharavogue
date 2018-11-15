@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul {
+}
+.item {
+  margin: 0 auto;
+  border: 1px solid black;
+  padding: 1rem;
+  width: 10rem;
+  list-style: none;
+}
+
+.item.red {
+  background-color: red;
+}
+
+button {
+  display: block;
+}
